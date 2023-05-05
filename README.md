@@ -4,5 +4,4 @@
 - install kebutuhan : pip install -r requirements.txt
 - login admin : username = admin password = admin123
 
-## KET
-masukan datanya terus setelah masuk push ke repo lagi 
+link data : https://drive.google.com/drive/folders/1N-FslH9BL8HkFBm3zlDRuEr6X7j0oFXQ?usp=sharing
